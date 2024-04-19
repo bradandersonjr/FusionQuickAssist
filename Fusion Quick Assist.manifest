@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"addin",
+	"id":	"43b68409-66c6-46d6-94bc-99ff42b7ba90",
+	"author":	"brad anderson jr",
+	"description":	{
+		"":	"Quickly get assistance with Autodesk Fusion queries"
+	},
+	"version":	"1.0",
+	"runOnStartup":	true,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
